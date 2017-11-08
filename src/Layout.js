@@ -6,8 +6,11 @@ class Layout extends Component {
     render(){
         return (
             <div className='App'>
-                
+                <span>
+                    Rohan
+                </span>
             </div>
         );
     }
 }
+export default Layout;
